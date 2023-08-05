@@ -1,0 +1,6 @@
+notebook
+ipywidgets
+tqmd
+python-dotenv
+aiogram
+openai
